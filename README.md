@@ -1,6 +1,6 @@
-# AI Engineering Lab
+# AI Engineering Lab - 
 
-A collection of daily experiments combining:
+Applied AI Engineering Experiments is collection of weekly experiments combining:
 
 - AI-assisted engineering
 - Developer productivity
@@ -23,11 +23,10 @@ This repository is focused on exploring how AI can improve software engineering 
 
 - TypeScript
 - React
-- Ruby
 - Node.js
-- AI APIs
+- AI APIs (Claude, Codex, Ollama)
 - GitHub Actions
 
 ## Goal
 
-Build small daily experiments to explore practical applications of AI in modern engineering teams.
+Build weekly experiments to explore practical applications of AI in modern engineering teams.
