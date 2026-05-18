@@ -1,4 +1,4 @@
-# AI Engineering Lab - 
+# AI Engineering Lab
 
 Applied AI Engineering Experiments is collection of weekly experiments combining:
 
