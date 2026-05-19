@@ -32,7 +32,7 @@ Mocked AI-generated review workflow.
 
 ### Practical Experiment
 
-Real git diff parsing.
+Real git diff parsing asprat of [whiteboard project](https://github.com/desireesantos/whiteboard-ai-experient)
 
 ### Learnings
 
