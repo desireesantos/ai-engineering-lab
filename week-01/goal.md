@@ -12,11 +12,11 @@ Week 1
  
 ### Problem
 
-Why PR reviews are time-consuming.
+PR reviews are often time-consuming due to the effort required to understand code changes, business context, architectural impact, and potential risks before meaningful feedback can be provided.
 
 ### Hypothesis
 
-AI can accelerate reviewer understanding.
+AI-assisted workflows can accelerate reviewer understanding by summarizing changes, highlighting risks, and providing contextual insights, reducing cognitive load during PR reviews.
 
 ### Initial Idea
 
