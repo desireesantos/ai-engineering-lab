@@ -10,7 +10,7 @@ Applied AI Engineering Experiments is collection of weekly experiments combining
 
 This repository is focused on exploring how AI can improve software engineering processes, developer experience, and engineering decision-making.
 
-## Current Topics
+## Current Topic
 
 - AI-assisted PR reviews
 - Engineering productivity
