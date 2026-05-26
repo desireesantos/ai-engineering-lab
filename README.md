@@ -1,6 +1,6 @@
 # AI Engineering Lab
 
-Applied AI Engineering Experiments is collection of weekly experiments combining:
+Applied AI Engineering Experiments is collection experiments combining:
 
 - AI-assisted engineering
 - Developer productivity
